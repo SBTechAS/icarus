@@ -20,6 +20,10 @@ Icarus v1.0 is a board based on Walter Feels from Quickspot with some changes.
 * UART pins forwarded
 * CAN bus
 
+## Status
+
+Board is in testing phase and are not ready for production. You would be able to order this board directly from JLCPCB (adapted to parts from them). 
+
 ## Motherboard for Walter
 
 Based on Walter from QuickSpot. You can find the device [here](https://www.quickspot.io/documentation.html#/hardware_walter).
